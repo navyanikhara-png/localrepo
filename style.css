@@ -1,0 +1,21 @@
+body{
+ background-color: white;
+ color: rgb(4, 12, 53);
+}
+td{
+    border: 1px solid black  ;
+}
+.green{
+    background-color: rgb(19, 17, 16);
+    color:rgb(232, 232, 236) ;
+
+}
+.bg-black{
+    color:rgb(238, 242, 245);
+}
+
+#navya{
+   background-color: rgb(13, 66, 66);
+   color: rgb(192, 192, 192);
+
+}
